@@ -1,0 +1,8 @@
+The language used to create web pages,Hypertext Markup Language,100
+Stores running programs and other types of data on computers,Random Access Memory,200
+Performs arithmetical operations on a computer,Arithmetic Logic Unit,300
+Language that computers read to carry out instruction,Machine Code,400
+Changing a representation to use fewer bits to store information,Data Compression,500
+User interface that uses icons and a mouse,Graphical User Interface,600
+Circuit that carry data from one area to another,Data Bus,700
+Taking measurements at regular intervals when digitizing sound,Sampling,800

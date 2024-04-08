@@ -1,0 +1,8 @@
+The longest river in Africa,The Nile River,100
+The capital city of Australia,Canberra,200
+The capital ciry of New Zealand,Wellington,300
+The country that is located at the southern tip of the Malay Peninsula,Singapore,400
+The mountain range that separates Europe from Asia,The Ural Mountains,500
+The highest peak in South America,Mount Aconcagua,600
+The strait that separates the island of Taiwan from mainland China,Taiwan Strait,700
+African country that is the only one to have Spanish as its offical language,Equatorial Guinea,800

@@ -1,0 +1,8 @@
+The chemical symbol for water,H2O,100
+The process by which plants make their own food using sunlight,Photosynthesis,200
+The powerhouse of the cell,Mitochondia,300
+The chemical element with the symbol Fe,Iron,400
+The process by which living organisms convert glucose and oxygen into energy,Cellular Respiration,500
+The largest organ in the human body,Skin,600
+The study of the future of life in the universe,Astrobiology,700
+The phenomenon where particles are instantaneously linked affecting one another's state regardless of distance as observed in quantum mechanics,Quantum Entanglement,800
